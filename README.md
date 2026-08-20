@@ -5,7 +5,7 @@ IBM/NASA Geospatial – Multi-Temporal Crop Classification
 Hugging Face Dataset — multi-temporal-crop-classification
 
 It was created using:
-
+HLS data was accessed through #NASA #Earthdata: https://search.earthdata.nasa.gov/search
 HLS (Harmonized Landsat and Sentinel-2) imagery
 USDA Crop Data Layer (CDL) for the labels
 3 temporal observations
@@ -24,7 +24,7 @@ NASA-IMPACT HLS Foundation Model GitHub
 Important distinction
 
 The Hugging Face Space/demo you shared is not the training dataset. It is the demo for running the already fine-tuned model.
-
+https://huggingface.co/datasets/ibm-nasa-geospatial/multi-temporal-crop-classification 
 So for your project, you can cite:
 
 Dataset: IBM/NASA Geospatial, Multi-Temporal Crop Classification Dataset
